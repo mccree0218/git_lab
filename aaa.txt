@@ -4,3 +4,6 @@ add aaa.txt
 branch1 add text
 test rebase
 local edit
+local sync edit
+local edit
+fetch mccree0218
